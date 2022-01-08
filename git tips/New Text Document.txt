@@ -1,0 +1,5 @@
+git diff - it compares the working tree with staging area. It tells you what you have 
+changed.
+
+git diff --stage - if we pass this command than it will compare the difference between
+staging area and the last commit.
